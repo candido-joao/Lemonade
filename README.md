@@ -1,27 +1,27 @@
-Project: Lemonade App - Starter Code
+Projeto: Lemonade App 
 ==================================
 
-Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+Código para o primeiro projeto independente para [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
-Introduction
+Introdução
 ------------
 
-This is the starter code for the Lemonade app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-four) of Android Basics [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
+Este é o código para o projeto do aplicativo Lemonade no [caminho final](https://developer.android.com/courses/pathways/android-basics-kotlin-four) do Android Basics [Unidade 1](https:// developer.android.com/courses/android-basics-kotlin/unit-1). Este projeto é uma oportunidade para você demonstrar os conceitos que aprendeu na unidade.
 
-Pre-requisites
+Pré-requisitos
 --------------
 
-- Complete [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of Android Basics in Kotlin
+- Conclua a [Unidade 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) do Android Basics em Kotlin
 
-Getting Started
+Começando
 ---------------
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
+1. Baixe o código
+2. Abra o projeto no Android Studio
+3. Conclua o projeto de acordo com as [instruções do projeto](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
 
-Tips
+Dicas
 ----
 
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+- Use os testes fornecidos para garantir que seu aplicativo esteja funcionando conforme o esperado
+- NÃO ALTERE OS TESTES FORNECIDOS
