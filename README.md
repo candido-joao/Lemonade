@@ -6,7 +6,7 @@ Código para o primeiro projeto independente para [Android Basics in Kotlin](htt
 Introdução
 ------------
 
-Este é o código para o projeto do aplicativo Lemonade no [caminho final](https://developer.android.com/courses/pathways/android-basics-kotlin-four) do Android Basics [Unidade 1](https:// developer.android.com/courses/android-basics-kotlin/unit-1). Este projeto é uma oportunidade para você demonstrar os conceitos que aprendeu na unidade.
+Este é o código para o projeto do aplicativo Lemonade no [caminho final](https://developer.android.com/courses/pathways/android-basics-kotlin-four) do Android Basics [Unidade 1](https://developer.android.com/courses/android-basics-kotlin/unit-1). Este projeto é uma oportunidade para você demonstrar os conceitos que aprendeu na unidade.
 
 Pré-requisitos
 --------------
