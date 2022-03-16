@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_select">Toque para pegar um limão!</string>
+    <string name="lemon_squeeze">Pressione e solte para espremer o limão!</string>
+    <string name="lemon_drink">Toque para beber a limonada!</string>
+    <string name="lemon_empty_glass">Toque para começar novamente!</string>
+    <string name="squeeze_count">Nº de espremidas: %1$d, continue espremendo!</string>
+    <string name="states">states</string>
+</resources>
